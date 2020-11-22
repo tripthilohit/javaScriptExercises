@@ -1,3 +1,5 @@
+// Plaindrome reverse method 
+
 function palindrome(input){
     console.log(typeof(input))
 if(typeof input != 'string')
