@@ -1,4 +1,7 @@
 // Maximun diff between elements is :
+
+//Refer about javascript sort for numbers: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort
+
 function maxDifferenceMethod1(arr){
     arr.sort(function(a,b){ return a - b})
     
