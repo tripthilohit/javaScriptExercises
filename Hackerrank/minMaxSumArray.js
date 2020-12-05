@@ -1,3 +1,4 @@
+// return min and max sum of n-1 numbers
 function minMaxSum(arr){
     var output = []
     var min = 0 , max = 0

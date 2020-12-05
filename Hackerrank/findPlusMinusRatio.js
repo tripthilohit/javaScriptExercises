@@ -1,4 +1,4 @@
-
+// find ratio of positive, negative and zero in an array
 function findPlusMinusRatio(arr){
     var posRatio = 0, negRatio = 0, zeroRatio = 0
     
